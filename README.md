@@ -1,20 +1,11 @@
-👋 Привет, меня зовут Леонид
+Привет, меня зовут Леонид, я Frontend Developer (React / Next.js / TypeScript)
 
-Frontend Developer (React / Next.js / TypeScript)
+Обо мне:
+Разрабатываю с использованием React, Next.js и TypeScript. Интересуюсь производительностью React и современным стеком веб-разработки.
 
-📍 Муром, Россия
+🛠️ Технологии:
 
-Ищу первую коммерческую работу Frontend-разработчиком.
-
-🚀 Обо мне
-
-Разрабатываю современные веб-приложения с использованием React, Next.js и TypeScript.
-
-Интересуюсь архитектурой frontend-приложений, производительностью React и современным стеком веб-разработки.
-
-🛠️ Технологии
-
-Frontend
+1-Frontend
 
 HTML5
 CSS3 / SCSS
@@ -27,7 +18,7 @@ Next.js
 Redux Toolkit
 Zustand
 
-Backend
+2-Backend
 REST API
 Prisma ORM
 PostgreSQL
@@ -39,7 +30,7 @@ Webpack
 Rollup
 Gulp
 
-⭐ Основные проекты
+⭐ Основные проекты:
 
 1-🛒 Internet Shop
 
